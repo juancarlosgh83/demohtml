@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	color:red;
+}
+.grande:hover {
+	color:blue;
+}
+.grande {
+	font-size: 80px;
+}
+h2 {
+	color:green;
+}
+.mas {
+	font-size:3em;
+}
+
+
+
+
+
